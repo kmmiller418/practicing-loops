@@ -7,7 +7,7 @@ public class StopAtFive {
         int number = 0;
 
         while (number != 5){
-            System.out.println("Give a numbr:");
+            System.out.println("Give a number:");
             number = s.nextInt();
         }
     }
